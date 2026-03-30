@@ -1,5 +1,5 @@
 # 🚀 Hello there!
-### Aspiring Front-end Developer Intern
+### Software Engineer
 
 ---
 ## 👋 About Me
