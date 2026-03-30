@@ -1,5 +1,9 @@
-# 🚀 Hello there!
-### Software Engineer
+# 🚀 I'm Tran Vu Anh 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Aspiring+Front-end+Developer;Passionate+about+UI%2FUX;React+%26+Tailwind+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 ## 👋 About Me
