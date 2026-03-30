@@ -1,5 +1,5 @@
 # 🚀 Hello there!
-### [cite_start]Aspiring Front-end Developer Intern [cite: 2, 7]
+### Aspiring Front-end Developer Intern [cite: 2, 7]
 
 ---
 ## 👋 About Me
